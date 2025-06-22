@@ -1,3 +1,8 @@
 # Notes
-This repository has my study notes.
-If you think these can help you, please give me a ==star==, thank you!
+
+This repo stores my study notes.
+
+**If you think these can help you, please give me a ==star==**
+
+**Thank you!**
+
