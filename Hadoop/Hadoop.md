@@ -329,7 +329,7 @@ The Hadoop was started by Doug Cutting and Mike Cafarella in 2002. Its origin wa
 
 [关于Hadoop1.x vs 2.x vs 3x.md 请点此跳转](.\Hadoop 1.x vs 2.x vs 3.x.md)
 
-
+[关于Hadoop1.x vs 2.x vs 3x.pdf 请点此跳转](.\Hadoop 1.x vs 2.x vs 3.x.pdf)
 
 ---
 
@@ -596,6 +596,8 @@ Hadoop1.x
 
 
 [关于HA Quorum Jornal Manager and shared storage.md 请点此跳转](.\HA Quorum Jornal Manager and shared storage.md)
+
+[关于HA Quorum Jornal Manager and shared storage.pdf 请点此跳转](.\HA Quorum Jornal Manager and shared storage.pdf)
 
 ---
 
